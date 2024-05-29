@@ -22,9 +22,9 @@ repository               : "lijf36/lijf36.github.io"
 author:
   # Biographic information
   avatar           : "李俊锋.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Junfeng Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A 26-year-old youth preparing for the graduate entrance examination."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
@@ -112,7 +112,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification :"VxwoX8rj4qpVmk-0O9qplCcAJL9x9anEpo1_iClUzmE"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
