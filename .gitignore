@@ -10,3 +10,11 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Local Ruby dependencies and Jekyll caches
+.bundle/
+vendor/bundle/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+tmp/

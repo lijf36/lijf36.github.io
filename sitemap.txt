@@ -1,2 +1,6 @@
-https://lijf36.github.io/cv/
-https://lijf36.github.io/
+---
+layout: null
+permalink: /sitemap.txt
+sitemap: false
+---
+{{ site.url }}{{ site.baseurl }}/
